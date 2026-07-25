@@ -1,0 +1,6 @@
+{
+  "name": "VoteAX",
+  "description": "A secure, enterprise-grade multi-tenant online voting and election management system for colleges and universities with strict data isolation, unique link generation, and complete lifecycle controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
